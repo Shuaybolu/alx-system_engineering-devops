@@ -1,1 +1,2 @@
+#!/bin/bash
 find "$(pwd)" -type f -name "*~" -exec rm {} \;
